@@ -1,0 +1,8 @@
+C:\Users\bence\source\repos\RPG\Engine\bin\Release\netstandard2.0\Engine.deps.json
+C:\Users\bence\source\repos\RPG\Engine\bin\Release\netstandard2.0\Engine.dll
+C:\Users\bence\source\repos\RPG\Engine\bin\Release\netstandard2.0\Engine.pdb
+C:\Users\bence\source\repos\RPG\Engine\obj\Release\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\bence\source\repos\RPG\Engine\obj\Release\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\bence\source\repos\RPG\Engine\obj\Release\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\bence\source\repos\RPG\Engine\obj\Release\netstandard2.0\Engine.dll
+C:\Users\bence\source\repos\RPG\Engine\obj\Release\netstandard2.0\Engine.pdb
